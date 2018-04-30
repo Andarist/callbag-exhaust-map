@@ -1,6 +1,6 @@
 {
   "name": "callbag-exhaust-map",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "👜 Callbag operator that maps to inner source and ignores other values until that source completes.",
   "main": "dist/callbag-exhaust-map.js",
   "module": "dist/callbag-exhaust-map.es.js",
