@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "pretest": "npm run build",
-    "test": "jest",
+    "test": "jest --env=node",
     "precommit": "lint-staged",
     "prebuild": "rimraf dist",
     "build": "rollup -c",
